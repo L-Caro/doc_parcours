@@ -1,12 +1,1 @@
-{
-  "primary-color": "#307FFF",
-  "productWebUrl": "./1-get-started.html",
-  "productId": "in",
-  "keymaps": {},
-  "productName": "Instance Name",
-  "productVersion": "",
-  "stage": "release",
-  "downloadTitle": "Get Instance Name",
-  "searchMaxHits": 75,
-  "color-preset": "contrast"
-}
+{"primary-color":"#307FFF","productWebUrl":"./1-get-started.html","productId":"in","keymaps":{},"productName":"Instance Name","productVersion":"","stage":"release","downloadTitle":"Get Instance Name","searchMaxHits":75,"color-preset":"contrast"}
