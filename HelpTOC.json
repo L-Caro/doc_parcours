@@ -1,0 +1,32 @@
+{
+  "entities": {
+    "pages": {
+      "1-get_started": {
+        "id": "1-get_started",
+        "title": "Get started",
+        "url": "1-get-started.html",
+        "level": 0,
+        "tabIndex": 0
+      },
+      "2-swarm": {
+        "id": "2-swarm",
+        "title": "Utilisation de Docker swarm",
+        "url": "2-swarm.html",
+        "level": 0,
+        "tabIndex": 1
+      },
+      "3-artillery": {
+        "id": "3-artillery",
+        "title": "Test de Charge",
+        "url": "3-artillery.html",
+        "level": 0,
+        "tabIndex": 2
+      }
+    }
+  },
+  "topLevelIds": [
+    "1-get_started",
+    "2-swarm",
+    "3-artillery"
+  ]
+}
